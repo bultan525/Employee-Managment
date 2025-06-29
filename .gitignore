@@ -1,0 +1,9 @@
+/writable/*
+!/writable/.htaccess
+.env
+/vendor/
+/node_modules/
+*.log
+.idea/
+*.bak
+*.zip
